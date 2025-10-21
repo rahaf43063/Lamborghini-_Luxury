@@ -1,0 +1,15 @@
+Copyright © 2025 Rahaf
+
+This code is proprietary and confidential. It is provided to selected parties for evaluation purposes only.
+
+You may:
+- View and evaluate the code for internal review.
+- Provide feedback to the author.
+
+You may NOT:
+- Copy, modify, distribute, or use the code for commercial or non-commercial purposes.
+- Share the code with third parties without written permission from the author.
+
+Violation of these terms may result in legal action.
+
+For licensing inquiries, contact: rahaf43063@gmail.com
